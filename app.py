@@ -3,7 +3,7 @@ from flask import Flask, request, render_template, redirect, url_for
 app = Flask(__name__)
 
 books_list = [
-    {"title": "The Song of Achilles", "author": "Madeline Miller ", "pages": "416", "classification": "fiction", "details": "read, recommend", "acquisition": "loaned"}
+    {"title": "The Hunger Games", "author": "Suzanne Collins", "pages": "384", "classification": "fiction", "details": "read, recommend", "acquisition": "library"}
 ]
 
 

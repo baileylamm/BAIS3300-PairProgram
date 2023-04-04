@@ -16,6 +16,7 @@
   </head>
 
   <body>
+<<<<<<< Updated upstream
     <div class="container">
       <nav><a href="/">Home</a> | <a href="/about">About</a></nav>
 
@@ -62,5 +63,13 @@
         document.getElementById("flash").style.display = "none";
       }, 4000);
     </script>
+=======
+    <div class="container">{% block body %}xx {% endblock %}</div>
+    <nav>  <a href="/">Home</a>  |  <a href="/about">About</a> </nav>
+    {% for message in get_flashed_messages() %}
+    {{ message }}
+    {% endfor %}
+    {% block body %}xx {% endblock %}</div>
+>>>>>>> Stashed changes
   </body>
 </html>

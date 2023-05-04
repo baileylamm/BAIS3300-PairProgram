@@ -1,10 +1,10 @@
-# Library of books - Kayla Van Langen and Bailey Lamm
+# Library of books - Kayla Van Langen and Bailey Lamm :book:
   
-Basic Python Flask web application where users can track the books they've own and read.  
+Basic Python Flask web application where users can track the books they've own and read. :code:
 
 ---
+## This project was completed as part of an assignment for Digital Product Management. We used pair programming, which involved coding back and forth with a partner. This was a valuable experience where we learned collaboration and troubleshooting in a partner environment. We also learned about dynamic web applications, user experience, and user interfaces. 
 
-I completed this project as part of Digital Product Management class. To learn about dynamic web applications, user experience, and user interfaces.  
 
 ---
 ## Instruction to run the application  

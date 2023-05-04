@@ -2,7 +2,7 @@
   
 Basic Python Flask web application where users can track the books they've own and read. 💻:
 
----
+
 ## 
 - This project was completed as part of an assignment for Digital Product Management. 🏫
 - We used pair programming, which involved coding back and forth with a partner. 🖱️
@@ -10,7 +10,7 @@ Basic Python Flask web application where users can track the books they've own a
 - We also learned about dynamic web applications, user experience, and user interfaces. 👩‍💻
 
 
----
+
 ## Instruction to run the application  
 
 1. Clone this repository to local computer

@@ -9,6 +9,7 @@ Basic Python Flask web application where users can track the books they've own a
 - This was a valuable experience where we learned collaboration and troubleshooting in a partner environment. ⚠️
 - We also learned about dynamic web applications, user experience, and user interfaces. 👩‍💻
 
+<img src="https://raw.githubusercontent.com/baileylamm/BAIS3300-PairProgram/pairing/Photo%20on%203-28-23%20at%203.46%20PM%20%232.jpg" alt="Kayla and Bailey" width="500" align="center">  
 
 
 ## Instruction to run the application  

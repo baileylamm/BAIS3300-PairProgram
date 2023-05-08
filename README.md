@@ -34,12 +34,3 @@ Basic Python Flask web application where users can track the books they've own a
 
 6. Use the application by visiting the URL in your web browser
 
-### TO-DO  
-Features to be added.  
-
-- [x] ~~Catch all selected activities in /add and put them into the list~~
-- [x] ~~About page~~
-- [ ] Styling using Bootstrap 5 framework
-- [ ] Custom error messages
-- [ ] Flash messages
-- [ ] API
